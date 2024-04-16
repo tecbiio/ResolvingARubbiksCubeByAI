@@ -1,4 +1,4 @@
-# ResolvingARubbiksCubeByAI
+# ResolvingARubbiksCubeByAI (abandoned)
 
 I would continue my DUT's PT3 by adding a new method to resolve : the AI.
 
